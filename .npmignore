@@ -1,0 +1,12 @@
+# Logs
+*.log
+
+# Sources
+src/
+
+# Dependency directory
+node_modules/
+
+# Dot files
+.babelrc
+.gitignore
